@@ -21,3 +21,10 @@
 - AWS 계정 (없으시다면? 지금 바로 가입 👉 [AWS 무료 계정 만들기](https://aws.amazon.com/free/))
 - 인터넷 연결 (중요!)
 - 궁금한 마음 + 무한한 배움의 의지 💡
+
+###
+  - #### TODO
+    - AWS 기초 마스터
+    - Kubernetes
+    - Pipeline CI/CD 환경 구축
+---
